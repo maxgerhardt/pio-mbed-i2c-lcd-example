@@ -1,0 +1,12 @@
+FrameworkMbed/features/cellular/*
+FrameworkMbed/features/FEATURE_UVISOR/*
+FrameworkMbed/features/frameworks/greentea-client/*
+FrameworkMbed/features/frameworks/mbed-client-randlib/*
+FrameworkMbed/features/frameworks/mbed-coap/*
+FrameworkMbed/features/frameworks/unity/*
+FrameworkMbed/features/frameworks/utest/*
+FrameworkMbed/features/nanostack/*
+FrameworkMbed/features/netsocket/*
+FrameworkMbed/features/nvstore/*
+FrameworkMbed/features/storage/*
+FrameworkMbed/features/device_key/*
